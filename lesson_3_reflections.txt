@@ -1,3 +1,0 @@
-When would you want to create a remote rather than keeping all your work local?
-
-I would to create a remote when I am coding with a workmate or when I am needing  to maintain updated more than a copy of my developments in differents computers.
